@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="web-weather-app/images/dark-mode-preview.png" alt="Weather App Dark Mode Preview" width="900">
+  <img src="./web-weather-app-main/dark-mode-preview.png" alt="Weather App Dark Mode Preview">
 </p>
 
 ****
 
 <p align="center">
-  <img src="web-weather-app/images/light-mode-Preview.png" alt="Weather App Light Mode Preview" width="900">
+  <img src="./web-weather-app-main/dark-mode-preview.png" alt="Weather App Dark Mode Preview">
 </p>
 
 
@@ -43,6 +43,7 @@ The app also includes a light and dark mode toggle for better user experience.
 * Material Symbols Icons
 
                                                    Don't forget to starred this repository ⭐        
+
 
 
 
