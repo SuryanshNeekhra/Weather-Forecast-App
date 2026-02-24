@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./web-weather-app-main/dark-mode-preview.png" alt="Weather App Dark Mode Preview">
+  <img src="web-weather-app/images/dark-mode-preview.png" alt="Weather App Dark Mode Preview" width="900">
 </p>
 
 ****
 
 <p align="center">
-  <img src="./web-weather-app-main/dark-mode-preview.png" alt="Weather App Dark Mode Preview">
-</p>
+  <img src="web-weather-app/images/light-mode-Preview.png" alt="Weather App Light Mode Preview" width="900">
+</p
 
 
 # 🌦️ **Weather App Project**
@@ -54,3 +54,4 @@ The app also includes a light and dark mode toggle for better user experience.
 
 # Weather Forecast App
 # Weather Forecast App
+
